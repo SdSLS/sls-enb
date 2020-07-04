@@ -1,5 +1,3 @@
-# yarenb
-
 ## Imágenes
 
 Prox
